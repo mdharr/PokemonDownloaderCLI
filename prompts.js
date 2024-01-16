@@ -32,6 +32,7 @@ async function promptForDownloadInfo() {
             name: "options",
             message: "Select info to download:",
             choices: [
+                new inquirer.Separator("-- Options --"),
                 { name: "Stats" },
                 { name: "Sprites" },
                 { name: "Artwork" }
