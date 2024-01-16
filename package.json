@@ -1,0 +1,23 @@
+{
+  "name": "pokemondownloadercli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdharr/PokemonDownloaderCLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdharr/PokemonDownloaderCLI/issues"
+  },
+  "homepage": "https://github.com/mdharr/PokemonDownloaderCLI#readme",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  },
+  "type": "module"
+}
